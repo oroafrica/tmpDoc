@@ -1,1 +1,1 @@
-($("input[type='text']").attr("style","font-family:z_swan");)();
+($("input[type='text']").css("font-family","z_swan"))();
